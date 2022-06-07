@@ -1,1 +1,5 @@
-# Counting_clip
+# Counting clips - Kaggle Competition
+
+Deep Learning
+
+- Tensorflow /Keras
